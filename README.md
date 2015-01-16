@@ -13,3 +13,4 @@ Technical content  |  |  |  |  |  |
 Critical thinking  |  |  |  |  |  |
 Documentation  |  |  |  |  |  |
 Professional behavior  |  |  |  |  |  |
+Modifying the readme article for learning purposes
